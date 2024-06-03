@@ -20,7 +20,7 @@ type Finding struct {
 
 	// Secret contains the full content of what is matched in
 	// the tree-sitter query.
-	Secret string
+
 
 	// File is the name of the file containing the finding
 	File        string
